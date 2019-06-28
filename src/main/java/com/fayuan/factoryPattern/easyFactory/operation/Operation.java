@@ -2,7 +2,7 @@
  * @Company Mister24.com Inc.
  * @Copyright Copyright (c) 2016-2019 All Rights Reserved.
  */
-package com.fayuan.factoryPattern.easyFactory;
+package com.fayuan.factoryPattern.easyFactory.operation;
 
 /**
  * 操作接口

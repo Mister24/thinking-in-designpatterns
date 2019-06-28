@@ -2,14 +2,13 @@
  * @Company Mister24.com Inc.
  * @Copyright Copyright (c) 2016-2019 All Rights Reserved.
  */
-package com.fayuan.factoryPattern.easyFactory;
+package com.fayuan.factoryPattern.easyFactory.factory;
 
-import com.fayuan.factoryPattern.easyFactory.impl.AddOperation;
-import com.fayuan.factoryPattern.easyFactory.impl.DivOperation;
-import com.fayuan.factoryPattern.easyFactory.impl.MulOperation;
-import com.fayuan.factoryPattern.easyFactory.impl.SubOperation;
+import com.fayuan.factoryPattern.easyFactory.operation.*;
 
 /**
+ * 简单工厂
+ *
  * @author mr.24
  * @version Id: EasyFactory, v 1.0 2019-06-27 22:39 Exp $$
  */

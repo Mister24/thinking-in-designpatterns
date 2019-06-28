@@ -4,6 +4,9 @@
  */
 package com.fayuan.factoryPattern.easyFactory;
 
+import com.fayuan.factoryPattern.easyFactory.factory.EasyFactory;
+import com.fayuan.factoryPattern.easyFactory.operation.Operation;
+
 /**
  * @author mr.24
  * @version Id: Client, v 1.0 2019-06-27 22:43 Exp $$
